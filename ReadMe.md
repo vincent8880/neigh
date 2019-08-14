@@ -1,8 +1,8 @@
 # Neighbourhood Watch
 
 This python/django web-app was created to act as a Neighbourhood Watch.Developed during Moringa Core. This is Week 11's Independent Project.
-Date: 23th November 2018
-By: Donald Kiplagat
+Date: 11-8-2019
+By: Vincent Ododo
 
 ## Description
 This web-app allows a user to create a Profile,Category,Country,Technology,Color and Projects that are all under his username allowing other users to vote for them and visit the particular projects site.
