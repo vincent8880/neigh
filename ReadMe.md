@@ -8,10 +8,10 @@ By: Vincent Ododo
 This web-app allows a user to create a Profile,Category,Country,Technology,Color and Projects that are all under his username allowing other users to vote for them and visit the particular projects site.
 
 ## Setup/Installation Requirements
-* Live site can be accessed from the following link https://awwards-donald.herokuapp.com/
+* Live site can be accessed from the following link https://vinhood.herokuapp.com/
 * Pre-configured Admin details are:
-Password: halowars54611
-Username: donaldkiplagat
+Password: vin
+Username: ododo
 
 ### Known Bugs
 * Elements re-arrange themselves unequally on different screen sizes.
@@ -54,9 +54,9 @@ Then: User session is ended<br>
 
 
 ### Support and contact details
-* Contact me through my email: donald.k.kiplagat@gmail.com
+* Contact me through my email: ododovincent54@gmail.com
 * The source code is also contained within the folder containing this ReadMe with comments on the code thus third-party support can be offered.
 
 ### License
 Moringa School
-Copyright (c)2018 **Awwwards by Yours Truly-Donald Kiplagat**
+Copyright (c)2018 **Awwwards by Vincent Ododo**
