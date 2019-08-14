@@ -9,7 +9,7 @@ class notificationsForm(forms.ModelForm):
 class ProfileForm(forms.ModelForm):
     class Meta:
         model=Profile
-        exclude=['username','neighbourhood']
+        exclude=['username',]
 
 class BlogPostForm(forms.ModelForm):
     class Meta:

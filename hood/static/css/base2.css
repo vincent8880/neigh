@@ -1,6 +1,7 @@
+
 body{
-  background-color: #f4f7f6;
+  background-color: #c13584;
   /* background-image: url(../img/background.jpg); */
-  background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ), url(../img/hood.jpg) fixed;
-  background-position: 50% 50%;
+  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(../img/wood.jpg) fixed;
+  background-position: -500% 10%;
 }
